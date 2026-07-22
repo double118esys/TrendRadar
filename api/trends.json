@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T07:02:37.990871+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-22T11:16:27.486200+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -98,6 +98,17 @@
           "time_info": "[05时16分 ~ 07时02分]"
         },
         {
+          "title": "伊朗说打就打",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AF%B4%E6%89%93%E5%B0%B1%E6%89%93%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "新任英国首相伯纳姆批准美国使用英国基地对伊朗进行部分打击。",
           "url": "https://flash.jin10.com/detail/20260722031057881800",
           "source": "金十数据",
@@ -153,6 +164,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "民调：美国近七成民众反感伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3137883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "伊朗总统强调团结对当前局势至关重要",
           "url": "https://flash.jin10.com/detail/20260722040932222800",
           "source": "金十数据",
@@ -162,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "伊朗：若美袭击核设施 地区冲突升级",
+          "url": "https://www.toutiao.com/trending/7664221335908810761/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊拉克消息人士称，因伊拉克库尔德地区近期遭遇火箭弹和无人机袭击，埃尔比勒国际机场已暂停运营。",
@@ -280,7 +313,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -291,9 +324,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美军连续第11晚对伊朗发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E6%99%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国致力于通过外交途径处理中东及伊朗问题。 美国仍然持开放态度，愿意进行谈判。 伊朗对待谈判缺乏诚意。",
+          "url": "https://wallstreetcn.com/livenews/3137851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
@@ -302,7 +357,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -310,7 +365,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -341,7 +396,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -360,13 +415,46 @@
           "time_info": "[01时26分 ~ 07时02分]"
         },
         {
+          "title": "特朗普宣布两年后对仿制药征100%关税",
+          "url": "https://www.toutiao.com/trending/7664118870580166683/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
+          "url": "https://news.ifeng.com/c/8ux7TemK3px",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
           "url": "https://flash.jin10.com/detail/20260722064418802800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -405,15 +493,49 @@
           "time_info": "[01时26分 ~ 03时39分]"
         },
         {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时16分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
           "url": "https://flash.jin10.com/detail/20260722063924180800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
@@ -422,18 +544,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -444,9 +555,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普宣布2年后对仿制药征100%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%832%E5%B9%B4%E5%90%8E%E5%AF%B9%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
@@ -455,7 +577,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -477,7 +599,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -488,7 +610,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -499,7 +621,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -510,9 +632,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普解除美国直飞黎巴嫩航班40余年禁令",
+          "url": "https://wallstreetcn.com/livenews/3137870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -562,7 +695,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -596,8 +729,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 11时16分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -606,9 +739,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时16分]"
         },
         {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
@@ -622,15 +789,15 @@
           "time_info": "[01时26分 ~ 01时27分]"
         },
         {
-          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
-          "url": "https://www.cls.cn/detail/2433220",
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "11时16分"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -702,18 +869,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 11时16分]"
         },
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
@@ -725,6 +893,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "AI安全测试变成真实攻击演示！OpenAI披露罕见事件",
+          "url": "https://flash.jin10.com/detail/20260722104134635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -796,7 +986,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -820,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时02分]"
+        },
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
