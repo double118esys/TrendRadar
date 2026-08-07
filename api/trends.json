@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:05:42.343659+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-08-07T18:58:20.378963+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 18时58分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -76,8 +76,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 18时58分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 18时58分]"
+        },
+        {
+          "title": "特朗普将与矿企高管开会",
+          "url": "https://wallstreetcn.com/livenews/3146650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -92,16 +115,15 @@
           "time_info": "[11时53分 ~ 15时25分]"
         },
         {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
           "source": "凤凰网",
           "ranks": [
-            7,
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时05分]"
+          "time_info": "[17时05分 ~ 18时58分]"
         },
         {
           "title": "特朗普帖子抢先看合法吗",
@@ -146,17 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 08时44分]"
-        },
-        {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -234,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
@@ -250,8 +272,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 18时58分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -273,11 +295,12 @@
             14,
             18,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 18时58分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -314,6 +337,18 @@
           "time_info": "[08时43分 ~ 11时54分]"
         },
         {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 18时58分]"
+        },
+        {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
           "url": "https://www.cls.cn/detail/2447658",
           "source": "财联社热门",
@@ -323,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 08时44分]"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时05分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -365,9 +388,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时58分]"
         }
       ]
     },
@@ -395,9 +418,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时58分]"
         },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
@@ -439,7 +462,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -468,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 17时05分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 18时58分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -484,6 +507,18 @@
           "time_info": "[08时43分 ~ 15时25分]"
         },
         {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时05分 ~ 18时58分]"
+        },
+        {
           "title": "美股三大指数集体收跌 西数跌超13%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
           "source": "百度热搜",
@@ -495,24 +530,13 @@
           "time_info": "[08时43分 ~ 08时44分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        },
-        {
           "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3146560",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
@@ -523,7 +547,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
@@ -573,7 +597,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         }
